@@ -1,0 +1,14 @@
+﻿  MyForm.cpp
+C:\Users\User\source\repos\Project6\Project6\MyForm.cpp(122,1): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\Project6\Project6\MyForm.cpp(123,47): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\Project6\Project6\MyForm.cpp(278,1): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\Project6\Project6\MyForm.cpp(279,47): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\Project6\Project6\MyForm.cpp(280,21): warning C4244: аргумент: преобразование "double" в "const _Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\User\source\repos\Project6\Project6\MyForm.cpp(381,18): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\source\repos\Project6\Project6\MyForm.cpp(392,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project6.vcxproj -> C:\Users\User\source\repos\Project6\Debug\Project6.exe
